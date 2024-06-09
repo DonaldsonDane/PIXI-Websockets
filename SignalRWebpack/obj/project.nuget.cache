@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6N7/7yecONMNrSjmrydPngrx6iw6VRMab5EfUiM6LQeiStlir56o2mSwG/X4RO/ePLRdwoeMsjhDeaOBCYU5w==",
+  "success": true,
+  "projectFilePath": "/Users/dane/Dev/PIXI-Websockets/SignalRWebpack/SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "/Users/dane/.nuget/packages/microsoft.typescript.msbuild/5.4.4/microsoft.typescript.msbuild.5.4.4.nupkg.sha512",
+    "/Users/dane/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

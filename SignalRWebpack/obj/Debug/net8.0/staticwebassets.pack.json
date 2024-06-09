@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dane/Dev/PIXI-Websockets/SignalRWebpack/wwwroot/css/main.82627e2c431664a18bf0.css",
+      "PackagePath": "staticwebassets/css/main.82627e2c431664a18bf0.css"
+    },
+    {
+      "Id": "/Users/dane/Dev/PIXI-Websockets/SignalRWebpack/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/dane/Dev/PIXI-Websockets/SignalRWebpack/wwwroot/main.82627e2c431664a18bf0.js",
+      "PackagePath": "staticwebassets/main.82627e2c431664a18bf0.js"
+    },
+    {
+      "Id": "/Users/dane/Dev/PIXI-Websockets/SignalRWebpack/wwwroot/main.82627e2c431664a18bf0.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/main.82627e2c431664a18bf0.js.LICENSE.txt"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SignalRWebpack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SignalRWebpack.props",
+      "PackagePath": "build\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SignalRWebpack.props",
+      "PackagePath": "buildMultiTargeting\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SignalRWebpack.props",
+      "PackagePath": "buildTransitive\\SignalRWebpack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
